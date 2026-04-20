@@ -23,3 +23,5 @@
 **/*.ipynb
 
 **/*.npz
+results/
+*.csv
